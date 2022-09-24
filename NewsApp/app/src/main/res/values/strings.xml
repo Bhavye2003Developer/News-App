@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="please_enter_the_keyword_you_want_to_search_for">Please Enter the keyword you want to search for</string>
+</resources>
